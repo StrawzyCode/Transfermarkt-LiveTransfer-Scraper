@@ -62,7 +62,7 @@ def player_exists(df, player_name):
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
 
 base_url = "https://www.transfermarkt.co.uk/transfers/neuestetransfers/statistik?ajax=yw1&land_id=0&maxMarktwert=500000000&minMarktwert=0&plus=1&wettbewerb_id=alle&page=1"
-json_file_path = 'Transfermarkt-LiveTransfer-Scraper/transfers.json'
+json_file_path = 'transfers.json'
 
 while True:
     print("Checking for new transfers...")
@@ -98,4 +98,3 @@ while True:
     
     print("Waiting for 10 minutes before the next check...")
     time.sleep(600)
-
