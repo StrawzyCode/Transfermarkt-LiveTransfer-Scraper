@@ -1,0 +1,3250 @@
+[
+    {
+        "Player":"Toufik Ouadoudi",
+        "Transfermarkt ID":"590533",
+        "Team Left":"Canet Rous.",
+        "Team Joined":"Alb\u00e8res Argel\u00e8s",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Lucas Muller",
+        "Transfermarkt ID":"1082397",
+        "Team Left":"Heillecourt ",
+        "Team Joined":"Pulnoy",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Appolinaire Kack",
+        "Transfermarkt ID":"369281",
+        "Team Left":"Sitra Club",
+        "Team Joined":"Al-Orooba",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Nhayson",
+        "Transfermarkt ID":"1003456",
+        "Team Left":"Santar\u00e9m",
+        "Team Joined":"Lus. Lourosa",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Mouad Fekkak",
+        "Transfermarkt ID":"936709",
+        "Team Left":"RS Berkane",
+        "Team Joined":"COD Mekn\u00e8s",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Azizbek Amanov",
+        "Transfermarkt ID":"517918",
+        "Team Left":"Khor Fakkan",
+        "Team Joined":"Neftchi",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Dzhemal Kyzylatesh",
+        "Transfermarkt ID":"318361",
+        "Team Left":"Isparta 32 Spor",
+        "Team Joined":"Muglaspor",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Vladislav Kirilenko",
+        "Transfermarkt ID":"600434",
+        "Team Left":"Chernomorets N.",
+        "Team Joined":"Saturn",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Bark\u0131n Yi\u011fit",
+        "Transfermarkt ID":"873447",
+        "Team Left":"Without Club",
+        "Team Joined":"Bld K\u00fctahya",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Alireza Koushki",
+        "Transfermarkt ID":"480990",
+        "Team Left":"Gol Gohar",
+        "Team Joined":"Esteghlal FC ",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Lamine Mezouaghi",
+        "Transfermarkt ID":"1175246",
+        "Team Left":"Montfermeil U19",
+        "Team Joined":"US Raon-l'\u00c9tape",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Malek Benkheira",
+        "Transfermarkt ID":"1174514",
+        "Team Left":"Bergerac",
+        "Team Joined":"SR Colmar",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Daniel Ivanov",
+        "Transfermarkt ID":"851856",
+        "Team Left":"Chern. Burgas",
+        "Team Joined":"Spartak Varna",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Sergiy Miserzhy",
+        "Transfermarkt ID":"1159820",
+        "Team Left":"Podillya",
+        "Team Joined":"Girnyk-Sport",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Florian Yonsian",
+        "Transfermarkt ID":"624901",
+        "Team Left":"Hyde United",
+        "Team Joined":"Flint Town",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Jacob Barratt",
+        "Transfermarkt ID":"717228",
+        "Team Left":"Porthmadog",
+        "Team Joined":"Colwyn Bay",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Abou Thiam",
+        "Transfermarkt ID":"882815",
+        "Team Left":"Amilly",
+        "Team Joined":"USM Saran",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Corentin Courthes",
+        "Transfermarkt ID":"1284602",
+        "Team Left":"St-Jean Angely",
+        "Team Joined":"Fontenay",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Nicolas Poulain",
+        "Transfermarkt ID":"780919",
+        "Team Left":"GFA Rumilly Val",
+        "Team Joined":"Foron",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Abdulrasheed Ibrahim",
+        "Transfermarkt ID":"1284668",
+        "Team Left":"Aberbargoed",
+        "Team Joined":"Cambrian United",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Pedro Monteiro",
+        "Transfermarkt ID":"339559",
+        "Team Left":"Torpedo Kutaisi",
+        "Team Joined":"Madura United",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Santi M\u00fcller",
+        "Transfermarkt ID":"1060023",
+        "Team Left":"CD Badajoz",
+        "Team Joined":"Linares",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Ram\u00f3n Bl\u00e1zquez",
+        "Transfermarkt ID":"521236",
+        "Team Left":"UCAM Murcia",
+        "Team Joined":"CD Estepona FS",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Samuel Urgela",
+        "Transfermarkt ID":"582409",
+        "Team Left":"FC Petrzalka",
+        "Team Joined":"MFK Zvolen",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Samuel Haviar",
+        "Transfermarkt ID":"1072211",
+        "Team Left":"Podbrezova U19",
+        "Team Joined":"Banik Kalinovo",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:04"
+    },
+    {
+        "Player":"Thobias Justh",
+        "Transfermarkt ID":"1146791",
+        "Team Left":"Spartak Trnava",
+        "Team Joined":"Dyn. Malzenice",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"William Balikwisha",
+        "Transfermarkt ID":"381968",
+        "Team Left":"Standard Li\u00e8ge",
+        "Team Joined":"OH Leuven",
+        "Fee":"\u20ac650k",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"Jonathan Silva",
+        "Transfermarkt ID":"1074917",
+        "Team Left":"Torino U19",
+        "Team Joined":"Crotone",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"Artur Sokhiev",
+        "Transfermarkt ID":"746479",
+        "Team Left":"Alashkert FC",
+        "Team Joined":"Without Club",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"David Khurtsidze",
+        "Transfermarkt ID":"181316",
+        "Team Left":"Alashkert FC",
+        "Team Joined":"Without Club",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"Vsevolod Ermakov",
+        "Transfermarkt ID":"287931",
+        "Team Left":"Alashkert FC",
+        "Team Joined":"Without Club",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"Gennadiy Belozertsev",
+        "Transfermarkt ID":"585012",
+        "Team Left":"Medialiga",
+        "Team Joined":"SKA Rostov",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"Artem Novichkov",
+        "Transfermarkt ID":"395692",
+        "Team Left":"SShOR Bronnitsy",
+        "Team Joined":"SKA Rostov",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"Bayu Fiqri",
+        "Transfermarkt ID":"817986",
+        "Team Left":"PSIS",
+        "Team Joined":"Without Club",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"Diego Mir\u00f3n",
+        "Transfermarkt ID":"611582",
+        "Team Left":"CD Coria",
+        "Team Joined":"CF Trujillo",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"Billal Samri",
+        "Transfermarkt ID":"1194637",
+        "Team Left":"QRM U19",
+        "Team Joined":"Racing 92 U19",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"Tomas Sarmir",
+        "Transfermarkt ID":"641674",
+        "Team Left":"Spartak Trnava",
+        "Team Joined":"Dyn. Malzenice",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"Adrian Berky",
+        "Transfermarkt ID":"1148690",
+        "Team Left":"FC ViOn U19",
+        "Team Joined":"Novo. Lucenec",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"Alex Luptak",
+        "Transfermarkt ID":"1193646",
+        "Team Left":"Zarnovica",
+        "Team Joined":"Slovan Sahy",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"Kristof Puha",
+        "Transfermarkt ID":"1178149",
+        "Team Left":"Dun. Streda U19",
+        "Team Joined":"Kost. Kracany",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"Vladimir Pilnik",
+        "Transfermarkt ID":"1082918",
+        "Team Left":"FK Pohronie U19",
+        "Team Joined":"FC Nitra",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"Filip Vojtek",
+        "Transfermarkt ID":"525102",
+        "Team Left":"Stara Lubovna",
+        "Team Joined":"Bardejov",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"Peter Sukovsky",
+        "Transfermarkt ID":"1148707",
+        "Team Left":"Michalovce",
+        "Team Joined":"Bardejov",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"Arthur Coneglian",
+        "Transfermarkt ID":"997489",
+        "Team Left":"Gr\u00eamio U20",
+        "Team Joined":"FC Noah ",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"Livan Burcu",
+        "Transfermarkt ID":"519872",
+        "Team Left":"SV Sandhausen",
+        "Team Joined":"Union Berlin",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"Aristeu Campanati",
+        "Transfermarkt ID":"645170",
+        "Team Left":"PO Xylotymbou",
+        "Team Joined":"MEAP Nisou",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"David Colina",
+        "Transfermarkt ID":"371000",
+        "Team Left":"FC Augsburg",
+        "Team Joined":"Vejle BK",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"Fandenwer Gonz\u00e1lez",
+        "Transfermarkt ID":"1193638",
+        "Team Left":"Snina",
+        "Team Joined":"Stara Lubovna",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"Joao Monteiro",
+        "Transfermarkt ID":"1029399",
+        "Team Left":"Banik Prievidza",
+        "Team Joined":"FC Pata",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"Guille Bernabeu",
+        "Transfermarkt ID":"635940",
+        "Team Left":"FC Cartagena B",
+        "Team Joined":"La Uni\u00f3n Atl.",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:07"
+    },
+    {
+        "Player":"Alejandro Ca\u00f1izo",
+        "Transfermarkt ID":"595916",
+        "Team Left":"Zamora CF",
+        "Team Joined":"CD Guadalajara",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"Ebrima Ndow",
+        "Transfermarkt ID":"1159373",
+        "Team Left":"Moreirense ",
+        "Team Joined":"Vila Real",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"Matar Manga",
+        "Transfermarkt ID":"1153568",
+        "Team Left":"Moreirense ",
+        "Team Joined":"Vila Real",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"Maicon",
+        "Transfermarkt ID":"665028",
+        "Team Left":"Naxxar Lions FC",
+        "Team Joined":"Birkirkara FC",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"Stavros Georgiou",
+        "Transfermarkt ID":"900935",
+        "Team Left":"APOEL Nicosia",
+        "Team Joined":"Doxa Katokopias",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"Julio Iglesias",
+        "Transfermarkt ID":"630991",
+        "Team Left":"AD Ceuta ",
+        "Team Joined":"San Fernando CD",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"Iker Recio",
+        "Transfermarkt ID":"628461",
+        "Team Left":"Alcorc\u00f3n",
+        "Team Joined":"Antequera",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"David Gil",
+        "Transfermarkt ID":"1057828",
+        "Team Left":"Sevilla FC C",
+        "Team Joined":"CD Estepona FS",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"Zelu",
+        "Transfermarkt ID":"231980",
+        "Team Left":"Sanluque\u00f1o",
+        "Team Joined":"Recr. Huelva",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"Marcel Sgr\u00f2",
+        "Transfermarkt ID":"718037",
+        "Team Left":"AC Escaldes",
+        "Team Joined":"CE Europa",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"Amir Taher",
+        "Transfermarkt ID":"697166",
+        "Team Left":"Paykan FC",
+        "Team Joined":"Fajr Sepasi",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"Sajjad Jafari",
+        "Transfermarkt ID":"625566",
+        "Team Left":"Shams Azar",
+        "Team Joined":"Fajr Sepasi",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"Alireza Kazemi",
+        "Transfermarkt ID":"957156",
+        "Team Left":"Esteghlal Khz.",
+        "Team Joined":"Gol Gohar",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"Kike Cadete",
+        "Transfermarkt ID":"385912",
+        "Team Left":"Dinamo Tbilisi",
+        "Team Joined":"Real Murcia",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"Haji Ceesay",
+        "Transfermarkt ID":"722432",
+        "Team Left":"Arandina",
+        "Team Joined":"CE L'Hospitalet",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"Andrew Romano",
+        "Transfermarkt ID":"941763",
+        "Team Left":"Genoa U19",
+        "Team Joined":"Foll. Gavorrano",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"Riccardo Scartoni",
+        "Transfermarkt ID":"889752",
+        "Team Left":"Spezia U19",
+        "Team Joined":"Foll. Gavorrano",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"Amara Traor\u00e9",
+        "Transfermarkt ID":"853165",
+        "Team Left":"Without Club",
+        "Team Joined":"Dzhalal-Abad",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"Luca Senigagliesi",
+        "Transfermarkt ID":"464973",
+        "Team Left":"Sambenedettese",
+        "Team Joined":"Grosseto",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"Riccardo Maniero",
+        "Transfermarkt ID":"52135",
+        "Team Left":"Turris",
+        "Team Joined":"Savoia",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"Gabriel Xavier",
+        "Transfermarkt ID":"285020",
+        "Team Left":"Fagiano Okayama",
+        "Team Joined":"Without Club",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"Miodrag Pivas",
+        "Transfermarkt ID":"908890",
+        "Team Left":"Jedinstvo Ub",
+        "Team Joined":"Newcastle U21",
+        "Fee":"\u20ac800k",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"Danilo Milenkovic",
+        "Transfermarkt ID":"292871",
+        "Team Left":"Stara Pazova",
+        "Team Joined":"H\u00f6ttur\/Huginn",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"Giuseppe Pipitone",
+        "Transfermarkt ID":"939278",
+        "Team Left":"Trapani",
+        "Team Joined":"Brindisi",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"Yann Fangwa",
+        "Transfermarkt ID":"704018",
+        "Team Left":"Atletico Uri",
+        "Team Joined":"Acireale",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:08"
+    },
+    {
+        "Player":"Dino Skorup",
+        "Transfermarkt ID":"526565",
+        "Team Left":"GOSK Gabela",
+        "Team Joined":"B. Banja Luka",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Yohan Ali",
+        "Transfermarkt ID":"1070851",
+        "Team Left":"Vineuil",
+        "Team Joined":"Wasquehal",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Christoph Klarer",
+        "Transfermarkt ID":"346849",
+        "Team Left":"Darmstadt 98",
+        "Team Joined":"Birmingham",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Nikolay Vdovichenko",
+        "Transfermarkt ID":"192393",
+        "Team Left":"Medialiga",
+        "Team Joined":null,
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Javi Soto",
+        "Transfermarkt ID":"1015840",
+        "Team Left":"Lleida CF",
+        "Team Joined":"\u00c1guilas FC B",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Nikita Bozov",
+        "Transfermarkt ID":"749187",
+        "Team Left":"Spartak 2",
+        "Team Joined":"Baltika",
+        "Fee":"\u20ac130k",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Javi Jim\u00e9nez",
+        "Transfermarkt ID":"251860",
+        "Team Left":"CD Alcoyano",
+        "Team Joined":"Alzira",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Derrick Amankwah",
+        "Transfermarkt ID":"914558",
+        "Team Left":"Llandudno Res",
+        "Team Joined":"Without Club",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Adri Rueda",
+        "Transfermarkt ID":"1284548",
+        "Team Left":"Gij\u00f3n Ind.",
+        "Team Joined":"UP Langreo",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Macsen Rhys-Williams",
+        "Transfermarkt ID":"926895",
+        "Team Left":"Without Club",
+        "Team Joined":"Conwy",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Carwyn Davies",
+        "Transfermarkt ID":"932820",
+        "Team Left":"Penrhyn Res",
+        "Team Joined":"Llanilar FC",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Noa Rowlands",
+        "Transfermarkt ID":"922055",
+        "Team Left":"Penrhyn Res",
+        "Team Joined":"Llanilar FC",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Joel Dom\u00ednguez",
+        "Transfermarkt ID":"1013120",
+        "Team Left":"Without Club",
+        "Team Joined":"Union Sur Yaiza",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Nikola Jakovljevic",
+        "Transfermarkt ID":"679417",
+        "Team Left":"TSV Essingen",
+        "Team Joined":"Oberensingen",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Jon Karrikaburu",
+        "Transfermarkt ID":"711382",
+        "Team Left":"Real Sociedad",
+        "Team Joined":"Racing",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Ivan Jokovic",
+        "Transfermarkt ID":"719602",
+        "Team Left":"Tau",
+        "Team Joined":"S. Novi Grad",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Filip Antonijevic",
+        "Transfermarkt ID":"572691",
+        "Team Left":"Vojvodina",
+        "Team Joined":"Radnik Bijelj.",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Seweryn Cieslak",
+        "Transfermarkt ID":"1284518",
+        "Team Left":"Skra II",
+        "Team Joined":"Skra Czesto.",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Kamil Frukacz",
+        "Transfermarkt ID":"1284517",
+        "Team Left":"Skra II",
+        "Team Joined":"Skra Czesto.",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Mateusz Wasilewski",
+        "Transfermarkt ID":"1284516",
+        "Team Left":"Skra II",
+        "Team Joined":"Skra Czesto.",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Mikheil Ergemlidze",
+        "Transfermarkt ID":"465618",
+        "Team Left":"FC Betlemi ",
+        "Team Joined":"Kirivong FC",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Maksim Belkovskiy",
+        "Transfermarkt ID":"865415",
+        "Team Left":"Chertanovo",
+        "Team Joined":"Rodina 2 Moscow",
+        "Fee":"\u20ac21k",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Salomon Nirisarike",
+        "Transfermarkt ID":"231642",
+        "Team Left":"KVK Tienen",
+        "Team Joined":"KVV Zepperen Br",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Toshio Shimakawa",
+        "Transfermarkt ID":"128412",
+        "Team Left":null,
+        "Team Joined":"Futuro",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Finn Surman",
+        "Transfermarkt ID":"724809",
+        "Team Left":"Wellington",
+        "Team Joined":"Portland",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:10"
+    },
+    {
+        "Player":"Mekky",
+        "Transfermarkt ID":"1151078",
+        "Team Left":"Nogoom FC",
+        "Team Joined":"WE SC",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Jordan Hern\u00e1ndez",
+        "Transfermarkt ID":"711555",
+        "Team Left":"Penya Deportiva",
+        "Team Joined":"Union Sur Yaiza",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Lasha Akhalaia",
+        "Transfermarkt ID":"220523",
+        "Team Left":"Guria",
+        "Team Joined":"FC Bakhmaro",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Denis Kozlovskiy",
+        "Transfermarkt ID":"281230",
+        "Team Left":"Gomel",
+        "Team Joined":"BK Maxline",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Nathan Kisisa",
+        "Transfermarkt ID":"556915",
+        "Team Left":"FC Sch\u00f6tz",
+        "Team Joined":"FC Wohlen",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Oleg Marchuk",
+        "Transfermarkt ID":"523905",
+        "Team Left":"Chelmianka",
+        "Team Joined":"Dzhalal-Abad",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Yanis Ammour",
+        "Transfermarkt ID":"420782",
+        "Team Left":"St. Beaucairois",
+        "Team Joined":"Thonon \u00c9vian",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"\u00c1lvaro Vega",
+        "Transfermarkt ID":"198024",
+        "Team Left":"CD Alcoyano",
+        "Team Joined":"Sanluque\u00f1o",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"El Mehdi Agdai",
+        "Transfermarkt ID":"543168",
+        "Team Left":"Wydad Fes",
+        "Team Joined":"Bengu\u00e9rir",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Giannis Bintsis",
+        "Transfermarkt ID":"597871",
+        "Team Left":"Eolikos",
+        "Team Joined":"Ellas Syrou",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Maxence Legentil",
+        "Transfermarkt ID":"940980",
+        "Team Left":"FCE MA",
+        "Team Joined":"Linas-Montlh\u00e9ry",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Danylo Knysh",
+        "Transfermarkt ID":"268697",
+        "Team Left":"Bukovyna",
+        "Team Joined":"Viktoriya",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Andreas Tsipras",
+        "Transfermarkt ID":"256712",
+        "Team Left":"Panegialios",
+        "Team Joined":"Ilysiakos",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Josef Husbauer",
+        "Transfermarkt ID":"63899",
+        "Team Left":"Pribram",
+        "Team Joined":"Spartakos Kitiou",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Dragan Domuzin",
+        "Transfermarkt ID":"428868",
+        "Team Left":"FK Omarska",
+        "Team Joined":"Naprijed H.",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Duval Wapiwo",
+        "Transfermarkt ID":"645899",
+        "Team Left":"Without Club",
+        "Team Joined":"Al-Sharq Club",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Jesse Edem Tugbenyo",
+        "Transfermarkt ID":"565118",
+        "Team Left":"SC Paderborn",
+        "Team Joined":"MSV Duisburg",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Nestoras Mytidis",
+        "Transfermarkt ID":"164472",
+        "Team Left":"Olympiakos N.",
+        "Team Joined":"AEZ Zakakiou",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Daniil Kondrakov",
+        "Transfermarkt ID":"540186",
+        "Team Left":"Sliema Wander.",
+        "Team Joined":"Botev Vratsa",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Philippe Tshiani Mbuyamba",
+        "Transfermarkt ID":"824614",
+        "Team Left":"Aubagne FC B",
+        "Team Joined":"Besan\u00e7on Foot",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Mamadou Diouf",
+        "Transfermarkt ID":"1284207",
+        "Team Left":"Jamono Fatick",
+        "Team Joined":"Teungueth FC",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Vuyisile Wana",
+        "Transfermarkt ID":"172354",
+        "Team Left":"Magesi FC",
+        "Team Joined":"Without Club",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Tebogo Mokalapa",
+        "Transfermarkt ID":"1106807",
+        "Team Left":"Magesi FC",
+        "Team Joined":"Without Club",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Mcedi Vandala",
+        "Transfermarkt ID":"566592",
+        "Team Left":"Magesi FC",
+        "Team Joined":"Without Club",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Katlego Molaba",
+        "Transfermarkt ID":"541546",
+        "Team Left":"Magesi FC",
+        "Team Joined":"Without Club",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Thintswalo Masebe",
+        "Transfermarkt ID":"870962",
+        "Team Left":"Magesi FC",
+        "Team Joined":"Without Club",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Mpho Dion Raseona",
+        "Transfermarkt ID":"1097624",
+        "Team Left":"Magesi FC",
+        "Team Joined":"Without Club",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"\u00c1tila Fontinha",
+        "Transfermarkt ID":"816504",
+        "Team Left":"US Cr\u00e9teil B",
+        "Team Joined":"US Lusitanos",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Bilal El Hajjam",
+        "Transfermarkt ID":"612829",
+        "Team Left":"US Cr\u00e9teil-L",
+        "Team Joined":"US Lusitanos",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Cebo Mchunu",
+        "Transfermarkt ID":"1151539",
+        "Team Left":"Orlando Pirates",
+        "Team Joined":"Milford FC",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Hadrien Heliard",
+        "Transfermarkt ID":"1222435",
+        "Team Left":"Pl.Vall\u00e9e",
+        "Team Joined":"Craponne",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Hamed Foundikou",
+        "Transfermarkt ID":"874964",
+        "Team Left":"Without Club",
+        "Team Joined":"GOAL FC",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Nordine Elaarrassi",
+        "Transfermarkt ID":"1030844",
+        "Team Left":"Ol. Marcquois",
+        "Team Joined":"US Tourcoing",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Fran\u00e7ois Chauvel",
+        "Transfermarkt ID":"940936",
+        "Team Left":"SU Dives",
+        "Team Joined":"AG Caen",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Noa Egret",
+        "Transfermarkt ID":"1284278",
+        "Team Left":"Concarneau B",
+        "Team Joined":"Ch\u00e2taigneraie",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Baptiste Favre",
+        "Transfermarkt ID":"1076694",
+        "Team Left":"SPS Football",
+        "Team Joined":"Moulins-Yzeure",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Isma\u00efla Doucour\u00e9",
+        "Transfermarkt ID":"813159",
+        "Team Left":"Without Club",
+        "Team Joined":"Chassieu D\u00e9ci.",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Lyes Aka",
+        "Transfermarkt ID":"1033282",
+        "Team Left":"Tr\u00e9lissac FC",
+        "Team Joined":"Pays du Valois",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Alexandre Even",
+        "Transfermarkt ID":"203495",
+        "Team Left":"AS Cagnes",
+        "Team Joined":"ES Cannet",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Alexis Rol\u00edn",
+        "Transfermarkt ID":"186664",
+        "Team Left":null,
+        "Team Joined":"CA Terremoto",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Martin Vybiral",
+        "Transfermarkt ID":"424235",
+        "Team Left":"Unicov",
+        "Team Joined":"1.SK Prostejov",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Michael Berm\u00fadez",
+        "Transfermarkt ID":"1074488",
+        "Team Left":"LDU Quito",
+        "Team Joined":"OFK Beograd",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Jules Meyer",
+        "Transfermarkt ID":"915193",
+        "Team Left":"Le Puy Foot",
+        "Team Joined":"Dijon",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Youri Tabet",
+        "Transfermarkt ID":"679967",
+        "Team Left":"JA Drancy",
+        "Team Joined":"Racing CFF",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Thomas Tour\u00e9",
+        "Transfermarkt ID":"187392",
+        "Team Left":"Without Club",
+        "Team Joined":"Pays de Grasse",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"\u00d6m\u00fcrcan \u00c7avu\u015fo\u011flu",
+        "Transfermarkt ID":"292302",
+        "Team Left":"Fatsa Belediye",
+        "Team Joined":"Silifke Bld",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Furkan Yard\u0131m",
+        "Transfermarkt ID":"701855",
+        "Team Left":"Bulvarspor",
+        "Team Joined":"Kirikkaleg\u00fcc\u00fc",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Ali Ate\u015f",
+        "Transfermarkt ID":"601029",
+        "Team Left":"Darica GB",
+        "Team Joined":"Nazilli Bld.",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Mustafa G\u00fcng\u00f6r",
+        "Transfermarkt ID":"460533",
+        "Team Left":"Without Club",
+        "Team Joined":"Nazilli Bld.",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Kaan K\u0131l\u0131\u00e7aslan",
+        "Transfermarkt ID":"686074",
+        "Team Left":"Orduspor 1967",
+        "Team Joined":"Amasyaspor FK",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:11"
+    },
+    {
+        "Player":"Samet Cant\u00fcrk",
+        "Transfermarkt ID":"169862",
+        "Team Left":"Bld K\u00fctahya",
+        "Team Joined":"Fatsa Belediye",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Daniel Haubner",
+        "Transfermarkt ID":"537889",
+        "Team Left":"SpVgg Bayreuth",
+        "Team Joined":"ZFC Meuselwitz",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Berkan Alimler",
+        "Transfermarkt ID":"335992",
+        "Team Left":"Hertha BSC II",
+        "Team Joined":"H. Zehlendorf",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Giuseppe Scaglione",
+        "Transfermarkt ID":"1080825",
+        "Team Left":"Palermo U19",
+        "Team Joined":"Montevarchi",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Umberto Eusepi",
+        "Transfermarkt ID":"62238",
+        "Team Left":"Monterosi",
+        "Team Joined":"Sambenedettese",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Biagio Maresca",
+        "Transfermarkt ID":"722907",
+        "Team Left":"Termoli",
+        "Team Joined":"Isernia",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Davide Mordini",
+        "Transfermarkt ID":"288570",
+        "Team Left":"Olbia",
+        "Team Joined":"Recanatese",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Thiago Menna",
+        "Transfermarkt ID":"1039738",
+        "Team Left":"Vastese",
+        "Team Joined":"Teramo",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Luca Cognigni",
+        "Transfermarkt ID":"119356",
+        "Team Left":"Giulianova",
+        "Team Joined":"Maceratese",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Raphael Scherzinger",
+        "Transfermarkt ID":"941689",
+        "Team Left":"Laufenburg II",
+        "Team Joined":"SV Albbruck",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Maxime Bisleau",
+        "Transfermarkt ID":"1071948",
+        "Team Left":"Niort B",
+        "Team Joined":"Fontenay",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Francesco Morana",
+        "Transfermarkt ID":"935808",
+        "Team Left":"Carrarese U19",
+        "Team Joined":"Mob. Ponsacco",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Jan Sobczuk",
+        "Transfermarkt ID":"717908",
+        "Team Left":"Janowianka",
+        "Team Joined":"Lublin II",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Andrej Stolarik",
+        "Transfermarkt ID":"841222",
+        "Team Left":"Bardejov",
+        "Team Joined":"FK Gerlachov",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Filip Serecin",
+        "Transfermarkt ID":"74922",
+        "Team Left":"Stara Lubovna",
+        "Team Joined":"MFK Roznava",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Mario Svec",
+        "Transfermarkt ID":"1093075",
+        "Team Left":"Stara Lubovna",
+        "Team Joined":"OFK Raslavice",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Kristian Molnar",
+        "Transfermarkt ID":"839475",
+        "Team Left":"SFC Kalinkovo",
+        "Team Joined":"TJ Rovinka",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Lubomir Jurco",
+        "Transfermarkt ID":"92332",
+        "Team Left":"Spisske Bystre",
+        "Team Joined":"FC Aschau",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Michal Kovarsky",
+        "Transfermarkt ID":"499409",
+        "Team Left":"Slavoj Boleraz",
+        "Team Joined":"Druzs. Siladice",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Kristian Tinath",
+        "Transfermarkt ID":"1093076",
+        "Team Left":"Odeva Lipany",
+        "Team Joined":"Bardejov",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Patrik Rindos",
+        "Transfermarkt ID":"1093079",
+        "Team Left":"Stara Lubovna",
+        "Team Joined":"Bardejov",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Matus Perhac",
+        "Transfermarkt ID":"741954",
+        "Team Left":"Stara Lubovna",
+        "Team Joined":"Bardejov",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Lucas Caruso",
+        "Transfermarkt ID":"324820",
+        "Team Left":"UF M\u00e2con",
+        "Team Joined":"Titus Petange",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Marwan Chafaa",
+        "Transfermarkt ID":"988300",
+        "Team Left":"Le Havre B",
+        "Team Joined":"Titus Petange",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Leonel Di Placido",
+        "Transfermarkt ID":"322843",
+        "Team Left":"Lan\u00fas",
+        "Team Joined":"Sport Recife",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:12"
+    },
+    {
+        "Player":"Imrich F\u00fcle",
+        "Transfermarkt ID":"1145054",
+        "Team Left":"Without Club",
+        "Team Joined":"OFK Branc",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Matus Lichy",
+        "Transfermarkt ID":"708615",
+        "Team Left":"MFK Zvolen",
+        "Team Joined":"FK Podkonice",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Daniel Kaleta",
+        "Transfermarkt ID":"1029105",
+        "Team Left":"Kosice U19",
+        "Team Joined":"Spartak Medzev",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Radoslav Arvensis",
+        "Transfermarkt ID":"815248",
+        "Team Left":"Apetlon",
+        "Team Joined":"Oravske Ves.",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Tomas Kona",
+        "Transfermarkt ID":"43244",
+        "Team Left":"AC Nitra",
+        "Team Joined":"FK Senica",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Matej Dybala",
+        "Transfermarkt ID":"412640",
+        "Team Left":"Without Club",
+        "Team Joined":"Javornik Makov",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Cl\u00e9ber",
+        "Transfermarkt ID":"74718",
+        "Team Left":"Nove Zamky",
+        "Team Joined":"FK Nitra",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Milan Jezdimirovic",
+        "Transfermarkt ID":"376632",
+        "Team Left":"Valletta",
+        "Team Joined":"Tekstilac",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Daniele Palmisano",
+        "Transfermarkt ID":"1284420",
+        "Team Left":"US ST Fasano",
+        "Team Joined":"Fasano",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Jude Bull",
+        "Transfermarkt ID":"1284432",
+        "Team Left":"Blaenavon",
+        "Team Joined":"Cwmbran Celtic",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Mattia Carriola",
+        "Transfermarkt ID":"818548",
+        "Team Left":"Benevento U19",
+        "Team Joined":"Fidelis Andria",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Simone Lambiase",
+        "Transfermarkt ID":"979354",
+        "Team Left":"Bari U19",
+        "Team Joined":"V. Francavilla",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Stefano Selvaggio",
+        "Transfermarkt ID":"702349",
+        "Team Left":"Juve Stabia",
+        "Team Joined":"Angri",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Michele Morlando",
+        "Transfermarkt ID":"936031",
+        "Team Left":"Palmese",
+        "Team Joined":"Sarrabus Ogl.",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Emmanuele Tedesco",
+        "Transfermarkt ID":"398377",
+        "Team Left":"Martina",
+        "Team Joined":"Manfredonia",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Souleye Thiam",
+        "Transfermarkt ID":"1192209",
+        "Team Left":"Gallipoli",
+        "Team Joined":"V. Francavilla",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Nicola Testoni",
+        "Transfermarkt ID":"996865",
+        "Team Left":"Parma U18",
+        "Team Joined":"Montevarchi",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Vito Dibenedetto",
+        "Transfermarkt ID":"872096",
+        "Team Left":"Monopoli ",
+        "Team Joined":"Pistoiese",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Natan Baiano",
+        "Transfermarkt ID":"1226328",
+        "Team Left":"Real-RR",
+        "Team Joined":"FC Samtredia",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Nikola Furtula",
+        "Transfermarkt ID":"584477",
+        "Team Left":"Kolubara",
+        "Team Joined":"Vozdovac",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Nemanja Vidic",
+        "Transfermarkt ID":"135554",
+        "Team Left":"FK Indjija",
+        "Team Joined":"Vozdovac",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Davide De Marino",
+        "Transfermarkt ID":"459535",
+        "Team Left":"Juve Next Gen",
+        "Team Joined":"Pro Vercelli",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Aleksey Berliyan",
+        "Transfermarkt ID":"1107730",
+        "Team Left":"Din. Bryansk II",
+        "Team Joined":"Dinamo Bryansk",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Nikita Mankov",
+        "Transfermarkt ID":"864627",
+        "Team Left":"Sokol Saratov",
+        "Team Joined":"Dinamo Bryansk",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Dragos Ungurenasu",
+        "Transfermarkt ID":"917360",
+        "Team Left":"ACSM Poli Iasi",
+        "Team Joined":"Miroslava",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:14"
+    },
+    {
+        "Player":"Aleksandr Sheplyakov",
+        "Transfermarkt ID":"449120",
+        "Team Left":"Medialiga",
+        "Team Joined":"SKA Rostov",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"Mart\u00edn Barrios",
+        "Transfermarkt ID":"565981",
+        "Team Left":"Liverpool FC",
+        "Team Joined":"Racing Club",
+        "Fee":"\u20ac2.30m",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"Math\u00edas Acu\u00f1a",
+        "Transfermarkt ID":"253738",
+        "Team Left":"CA F\u00e9nix",
+        "Team Joined":"Mushuc Runa SC",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"Christian Paiva",
+        "Transfermarkt ID":"421193",
+        "Team Left":"Guayaquil City",
+        "Team Joined":"Atl. Pantoja",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"Daniel Job",
+        "Transfermarkt ID":"1237900",
+        "Team Left":"Future PA",
+        "Team Joined":"Sarpsborg 08",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"Marius Tuset",
+        "Transfermarkt ID":"734364",
+        "Team Left":"Junkeren",
+        "Team Joined":"Vuku IL",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"Jesper Myklebust",
+        "Transfermarkt ID":"1061762",
+        "Team Left":"Jerv",
+        "Team Joined":"Tr\u00e6ff",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"Patrick Bergmann",
+        "Transfermarkt ID":"452924",
+        "Team Left":"Eik T\u00f8nsberg",
+        "Team Joined":"Funnefoss\/V.",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"Gerg\u0151 Nagy",
+        "Transfermarkt ID":"949257",
+        "Team Left":"Budafoki MTE",
+        "Team Joined":"Putnok",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"\u00c1d\u00e1m Cz\u00e9kus",
+        "Transfermarkt ID":"1042342",
+        "Team Left":"Kisv\u00e1rda",
+        "Team Joined":"B\u00e9k\u00e9scsaba",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"Bendeg\u00faz Farkas",
+        "Transfermarkt ID":"648892",
+        "Team Left":"Pusk\u00e1s AFC",
+        "Team Joined":"Ny\u00edregyh\u00e1za",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"Stuart Hendrie",
+        "Transfermarkt ID":"160523",
+        "Team Left":"Coton Green",
+        "Team Joined":"Nuneaton",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"Josh O'Brien",
+        "Transfermarkt ID":"1203735",
+        "Team Left":"Carlisle U18",
+        "Team Joined":"Carlisle C.",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"Kyle Rowley",
+        "Transfermarkt ID":"335780",
+        "Team Left":"Mickleover",
+        "Team Joined":"Walsall Wood",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"Poghos Ayvazyan",
+        "Transfermarkt ID":"231655",
+        "Team Left":"Artsakh",
+        "Team Joined":"Ararat Yerevan",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"Amin Sulebanov",
+        "Transfermarkt ID":"746471",
+        "Team Left":"Broke Boys",
+        "Team Joined":"Medialiga",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"Qlirim Beqaj",
+        "Transfermarkt ID":"1033541",
+        "Team Left":"SV Donaustauf",
+        "Team Joined":"Tegernheim",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"Klejdi Daci",
+        "Transfermarkt ID":"646252",
+        "Team Left":"KF Teuta",
+        "Team Joined":"OKMK Olmaliq",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"Ventsislav Slavov",
+        "Transfermarkt ID":"461981",
+        "Team Left":"Chern. Burgas",
+        "Team Joined":"Neftochimic",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"Matt Ingram",
+        "Transfermarkt ID":"164499",
+        "Team Left":"Hull City",
+        "Team Joined":"Oxford United",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"Iori Sakamoto",
+        "Transfermarkt ID":"1086865",
+        "Team Left":"Iwaki FC",
+        "Team Joined":"Blanc. Hirosaki",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"Fabi\u00e1n Gonz\u00e1lez",
+        "Transfermarkt ID":"272284",
+        "Team Left":"Ventforet Kofu",
+        "Team Joined":"Omiya Ardija",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"Taika Nakashima",
+        "Transfermarkt ID":"806006",
+        "Team Left":"H. C. Sapporo",
+        "Team Joined":"Mito HollyHock",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"Ryan",
+        "Transfermarkt ID":"866886",
+        "Team Left":"SC Sagamihara",
+        "Team Joined":"Without Club",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"Zento Uno",
+        "Transfermarkt ID":"957526",
+        "Team Left":"Machida Zelvia",
+        "Team Joined":"Shimizu S-Pulse",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:18"
+    },
+    {
+        "Player":"Kazunari Ichimi",
+        "Transfermarkt ID":"417610",
+        "Team Left":"Kyoto Sanga",
+        "Team Joined":"Fagiano Okayama",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Olivier Rommens",
+        "Transfermarkt ID":"312716",
+        "Team Left":"Balzan FC",
+        "Team Joined":"Vancouver FC",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Riccardo Miconi",
+        "Transfermarkt ID":"930725",
+        "Team Left":"Inter U19",
+        "Team Joined":"Varesina",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Benjamin Idaro",
+        "Transfermarkt ID":"1158704",
+        "Team Left":"Bologna U19",
+        "Team Joined":"FC Senigallia",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Ibrahim El Omari",
+        "Transfermarkt ID":"519245",
+        "Team Left":"USM Oujda",
+        "Team Joined":"KACM Marrakech",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Yerson Chac\u00f3n",
+        "Transfermarkt ID":"633724",
+        "Team Left":"T\u00e1chira",
+        "Team Joined":"AEK Larnaca",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Fabr\u00edcio Baiano",
+        "Transfermarkt ID":"282513",
+        "Team Left":"SC Sagamihara",
+        "Team Joined":"Petrolul",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Edoardo D'Ancona",
+        "Transfermarkt ID":"984793",
+        "Team Left":"Lucchese",
+        "Team Joined":"Livorno",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Mattia Parretti",
+        "Transfermarkt ID":"1121452",
+        "Team Left":"Arezzo U19",
+        "Team Joined":"Figline",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Filippo Remedi",
+        "Transfermarkt ID":"1090003",
+        "Team Left":"Renate U19",
+        "Team Joined":"Figline",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Umid Sultonov",
+        "Transfermarkt ID":"837433",
+        "Team Left":"Bunyodkor",
+        "Team Joined":"Sogdiana",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Christian D\u00edaz",
+        "Transfermarkt ID":"1008508",
+        "Team Left":"LAFC Academy",
+        "Team Joined":"LAFC 2",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Mat\u00edas Succar",
+        "Transfermarkt ID":"626179",
+        "Team Left":"CA Mannucci",
+        "Team Joined":"Alianza Lima",
+        "Fee":"\u20ac320k",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Rub\u00e9n Escobar",
+        "Transfermarkt ID":"127818",
+        "Team Left":"Resistencia SC",
+        "Team Joined":"Envigado",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Ginanjar",
+        "Transfermarkt ID":"1024631",
+        "Team Left":"Persija",
+        "Team Joined":"Bhayangkara FC",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Rafli Mahreza",
+        "Transfermarkt ID":"1180827",
+        "Team Left":"PSDS",
+        "Team Joined":"Persiraja",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Lucas Duarte",
+        "Transfermarkt ID":"979486",
+        "Team Left":"CA Joseense",
+        "Team Joined":"SC Covilh\u00e3",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Sinclair Armstrong",
+        "Transfermarkt ID":"724532",
+        "Team Left":"QPR",
+        "Team Joined":"Bristol City",
+        "Fee":"\u20ac2.95m",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Franco Zapiola",
+        "Transfermarkt ID":"909349",
+        "Team Left":"Estudiantes LP",
+        "Team Joined":"Platense",
+        "Fee":"\u20ac550k",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Gianni Cagua",
+        "Transfermarkt ID":"669351",
+        "Team Left":"Delf\u00edn SC",
+        "Team Joined":"Potros del Este",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Ignacio Galv\u00e1n",
+        "Transfermarkt ID":"863140",
+        "Team Left":"Racing Club",
+        "Team Joined":"Defensa",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Lucas Ferreira",
+        "Transfermarkt ID":"750733",
+        "Team Left":"Danubio FC",
+        "Team Joined":"Defensa",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Edwin Angulo",
+        "Transfermarkt ID":"850080",
+        "Team Left":"Deportivo Quito",
+        "Team Joined":"Libertad FC",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Luis G\u00f3mez",
+        "Transfermarkt ID":"750442",
+        "Team Left":"CD El Nacional",
+        "Team Joined":"Libertad FC",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Carlos Cuero",
+        "Transfermarkt ID":"312725",
+        "Team Left":"SD Aucas",
+        "Team Joined":"Delf\u00edn SC",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 15:50:20"
+    },
+    {
+        "Player":"Malik Olalekan Opoola",
+        "Transfermarkt ID":"992488",
+        "Team Left":"Carrarese",
+        "Team Joined":"Casarano",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 15:54:18"
+    },
+    {
+        "Player":"Kiko",
+        "Transfermarkt ID":"591054",
+        "Team Left":"RANS FC",
+        "Team Joined":"Persik",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 16:04:24"
+    },
+    {
+        "Player":"Robin Ens",
+        "Transfermarkt ID":"1284748",
+        "Team Left":"SV Heide",
+        "Team Joined":"SV Lippstadt 08",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 16:04:24"
+    },
+    {
+        "Player":"Neto",
+        "Transfermarkt ID":"974505",
+        "Team Left":"Chaves B",
+        "Team Joined":"Vila Real",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 16:21:28"
+    },
+    {
+        "Player":"Eren Bayraktar",
+        "Transfermarkt ID":"883873",
+        "Team Left":"Bld Derince",
+        "Team Joined":"Aliaga FK",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 16:21:28"
+    },
+    {
+        "Player":"Noah Sowinski",
+        "Transfermarkt ID":"1223528",
+        "Team Left":"Cork City U19",
+        "Team Joined":"Cork City",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 16:21:28"
+    },
+    {
+        "Player":"Nicola Rauti",
+        "Transfermarkt ID":"417896",
+        "Team Left":"Torino",
+        "Team Joined":"LR Vicenza",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 16:21:28"
+    },
+    {
+        "Player":"Diego Rossi",
+        "Transfermarkt ID":"927252",
+        "Team Left":"Cesena U19",
+        "Team Joined":"Arzignano",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 16:21:28"
+    },
+    {
+        "Player":"Lorenzo Pirola",
+        "Transfermarkt ID":"487834",
+        "Team Left":"Salernitana",
+        "Team Joined":"Olympiacos",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 16:41:32"
+    },
+    {
+        "Player":"Isaac Wagoina",
+        "Transfermarkt ID":"1283263",
+        "Team Left":"Express FC",
+        "Team Joined":"BIDCO Bul FC",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 16:41:32"
+    },
+    {
+        "Player":"Yanis Mouatazil",
+        "Transfermarkt ID":"1140115",
+        "Team Left":"FC Sochaux B",
+        "Team Joined":"SR Colmar",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 16:51:34"
+    },
+    {
+        "Player":"Barna N\u00e9meth",
+        "Transfermarkt ID":"1255853",
+        "Team Left":"Siofok U19",
+        "Team Joined":"BFC Si\u00f3fok",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:01:38"
+    },
+    {
+        "Player":"Antal Szaka",
+        "Transfermarkt ID":"1187828",
+        "Team Left":"Siofok U19",
+        "Team Joined":"BFC Si\u00f3fok",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:01:38"
+    },
+    {
+        "Player":"M\u00e1rk Varga",
+        "Transfermarkt ID":"1187831",
+        "Team Left":"Siofok U19",
+        "Team Joined":"BFC Si\u00f3fok",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:01:38"
+    },
+    {
+        "Player":"Grayson Doody",
+        "Transfermarkt ID":"1215598",
+        "Team Left":"Montr\u00e9al",
+        "Team Joined":"Las Vegas",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 17:01:38"
+    },
+    {
+        "Player":"Alfredo Pussetto",
+        "Transfermarkt ID":"323834",
+        "Team Left":"Canicatt\u00ec",
+        "Team Joined":"Fasano",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:01:38"
+    },
+    {
+        "Player":"Lucio Gaeta",
+        "Transfermarkt ID":"610396",
+        "Team Left":"S.Maria Cilento",
+        "Team Joined":"Acerrana",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:01:38"
+    },
+    {
+        "Player":"Ousman Jabang",
+        "Transfermarkt ID":"1114686",
+        "Team Left":"Montr\u00e9al",
+        "Team Joined":"Las Vegas",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 17:01:38"
+    },
+    {
+        "Player":"Paulo Retre",
+        "Transfermarkt ID":"257685",
+        "Team Left":"FC Goa",
+        "Team Joined":"Without Club",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 17:01:38"
+    },
+    {
+        "Player":"Alejandro Gomes Rodriguez",
+        "Transfermarkt ID":"1108478",
+        "Team Left":"Southampton U18",
+        "Team Joined":"Olymp. Lyon U19",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 17:11:38"
+    },
+    {
+        "Player":"Alessio Porzio",
+        "Transfermarkt ID":"1049439",
+        "Team Left":"Paganese",
+        "Team Joined":"Manfredonia",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:11:38"
+    },
+    {
+        "Player":"Esneyder Mena",
+        "Transfermarkt ID":"617910",
+        "Team Left":"CD Am\u00e9rica",
+        "Team Joined":"A. Bucaramanga",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 17:11:38"
+    },
+    {
+        "Player":"Yasin Y\u0131lmaz",
+        "Transfermarkt ID":"1006950",
+        "Team Left":"\u00dcnye 1957",
+        "Team Joined":"Sivas 4 Eyl\u00fcl",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:31:45"
+    },
+    {
+        "Player":"M\u00fckail Bayd\u0131r",
+        "Transfermarkt ID":"314723",
+        "Team Left":"Tavsanli Linyit",
+        "Team Joined":"Sivas 4 Eyl\u00fcl",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:31:45"
+    },
+    {
+        "Player":"Kadircan Gedikli",
+        "Transfermarkt ID":"1053713",
+        "Team Left":"Carsambaspor",
+        "Team Joined":"Sivas 4 Eyl\u00fcl",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:31:45"
+    },
+    {
+        "Player":"Koray Ya\u011fc\u0131",
+        "Transfermarkt ID":"720612",
+        "Team Left":"Hatayspor",
+        "Team Joined":"Karacabey Bld",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 17:31:45"
+    },
+    {
+        "Player":"Mustafa K\u00f6ro\u011flu",
+        "Transfermarkt ID":"707399",
+        "Team Left":"Turgutluspor ",
+        "Team Joined":"Muglaspor",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:31:45"
+    },
+    {
+        "Player":"Tayfun Tatl\u0131",
+        "Transfermarkt ID":"635023",
+        "Team Left":"Altinordu",
+        "Team Joined":"Muglaspor",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 17:31:45"
+    },
+    {
+        "Player":"Ramazan \u00d6zkabak",
+        "Transfermarkt ID":"324082",
+        "Team Left":"Artvin Hopaspor",
+        "Team Joined":"D\u00fczcespor",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:31:45"
+    },
+    {
+        "Player":"Ivan Kochergin",
+        "Transfermarkt ID":"1119245",
+        "Team Left":"Without Club",
+        "Team Joined":"Torpedo Miass",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 17:44:34"
+    },
+    {
+        "Player":"Mikhail Sentyurin",
+        "Transfermarkt ID":"524845",
+        "Team Left":"Tekstilshchik",
+        "Team Joined":"Without Club",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 17:44:34"
+    },
+    {
+        "Player":"Lucas Pinto",
+        "Transfermarkt ID":"1189364",
+        "Team Left":"Fontinhas",
+        "Team Joined":"Real SC",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:44:34"
+    },
+    {
+        "Player":"Didi",
+        "Transfermarkt ID":"718936",
+        "Team Left":"Fafe",
+        "Team Joined":"Beira-Mar",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:44:34"
+    },
+    {
+        "Player":"Bernardo Ferreira",
+        "Transfermarkt ID":"1104133",
+        "Team Left":"Tondela U19",
+        "Team Joined":"Mort\u00e1gua",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:44:34"
+    },
+    {
+        "Player":"Philomon Baffour",
+        "Transfermarkt ID":"734790",
+        "Team Left":"Without Club",
+        "Team Joined":"Alcains",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 17:44:34"
+    },
+    {
+        "Player":"Edgar Ribeiro",
+        "Transfermarkt ID":"1184103",
+        "Team Left":"Fontinhas",
+        "Team Joined":"Bragan\u00e7a",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:44:34"
+    },
+    {
+        "Player":"Ahmet Burak K\u00f6m\u00fcrc\u00fc",
+        "Transfermarkt ID":"231043",
+        "Team Left":"Unknown",
+        "Team Joined":"1074 Cankiri",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:44:34"
+    },
+    {
+        "Player":"Ant\u00f3nio Gomes",
+        "Transfermarkt ID":"363511",
+        "Team Left":"RE Virton",
+        "Team Joined":"RFCU Luxembourg",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:57:23"
+    },
+    {
+        "Player":"Mehmet Tolun",
+        "Transfermarkt ID":"612621",
+        "Team Left":"T\u00fcrk Metal 1963",
+        "Team Joined":"Kirikkaleg\u00fcc\u00fc",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:57:23"
+    },
+    {
+        "Player":"Adem Ercan",
+        "Transfermarkt ID":"294657",
+        "Team Left":"T\u00fcrk Metal 1963",
+        "Team Joined":"Kirikkaleg\u00fcc\u00fc",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:57:23"
+    },
+    {
+        "Player":"Aykut \u015eafak Kaya",
+        "Transfermarkt ID":"397331",
+        "Team Left":"Unknown",
+        "Team Joined":"Sivas 4 Eyl\u00fcl",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:57:23"
+    },
+    {
+        "Player":"Asghar Nasiri",
+        "Transfermarkt ID":"419501",
+        "Team Left":"Ario Eslamshahr",
+        "Team Joined":"Sh. Nowshahr",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:57:23"
+    },
+    {
+        "Player":"Hamid Golzari",
+        "Transfermarkt ID":"336365",
+        "Team Left":"Mes Shahr Babak",
+        "Team Joined":"Sh. Nowshahr",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:57:23"
+    },
+    {
+        "Player":"Mustafa Y\u00fcksektepe",
+        "Transfermarkt ID":"292548",
+        "Team Left":"Kilis Belediye",
+        "Team Joined":"Sivas 4 Eyl\u00fcl",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:57:23"
+    },
+    {
+        "Player":"R\u0131fat Merzifonluo\u011flu",
+        "Transfermarkt ID":"394732",
+        "Team Left":"Ankara TKI",
+        "Team Joined":"1074 Cankiri",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:57:23"
+    },
+    {
+        "Player":"Lucas Lima",
+        "Transfermarkt ID":"950920",
+        "Team Left":"Oliv. Hospital",
+        "Team Joined":"Salgueiros",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:57:23"
+    },
+    {
+        "Player":"Mehmet K\u00fc\u00e7\u00fckdurmu\u015f",
+        "Transfermarkt ID":"374133",
+        "Team Left":"Isparta 32 Spor",
+        "Team Joined":"K. Sinop Spor",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 17:57:23"
+    },
+    {
+        "Player":"Eren Emre Ayd\u0131n",
+        "Transfermarkt ID":"951695",
+        "Team Left":"C. Rizespor",
+        "Team Joined":"24 Erzincanspor",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 17:57:23"
+    },
+    {
+        "Player":"Canberk \u00d6z\u00e7ak\u0131r",
+        "Transfermarkt ID":"292691",
+        "Team Left":"Sincan Belediye",
+        "Team Joined":"1074 Cankiri",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:57:23"
+    },
+    {
+        "Player":"Mehmet Bilgin",
+        "Transfermarkt ID":"945213",
+        "Team Left":"Bursaspor U19",
+        "Team Joined":"Erbaaspor",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 17:57:23"
+    },
+    {
+        "Player":"Erhan \u015eeng\u00fcl",
+        "Transfermarkt ID":"339062",
+        "Team Left":"Kirechane Spor",
+        "Team Joined":"Pazarspor ",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 18:17:32"
+    },
+    {
+        "Player":"Alperen Do\u011fan",
+        "Transfermarkt ID":"329504",
+        "Team Left":"Erbaaspor",
+        "Team Joined":"Corlu 1947",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 18:17:32"
+    },
+    {
+        "Player":"Ozan Ko\u00e7",
+        "Transfermarkt ID":"507161",
+        "Team Left":"C. Rizespor",
+        "Team Joined":"Erbaaspor",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 18:17:32"
+    },
+    {
+        "Player":"Berat \u00c7inpolat",
+        "Transfermarkt ID":"611984",
+        "Team Left":"Kastamonu \u00d6IKH",
+        "Team Joined":"Sivas 4 Eyl\u00fcl",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 18:17:32"
+    },
+    {
+        "Player":"Furkan Co\u015fkun",
+        "Transfermarkt ID":"380440",
+        "Team Left":"Imamoglu Bld",
+        "Team Joined":"Sivas 4 Eyl\u00fcl",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 18:17:32"
+    },
+    {
+        "Player":"Metin Karakan",
+        "Transfermarkt ID":"801083",
+        "Team Left":"Unknown",
+        "Team Joined":"Sivas 4 Eyl\u00fcl",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 18:27:36"
+    },
+    {
+        "Player":"Mustafa Arda Mutlu",
+        "Transfermarkt ID":"979221",
+        "Team Left":"52 Orduspor FK",
+        "Team Joined":"Karacabey Bld",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 18:27:36"
+    },
+    {
+        "Player":"Hamit Kulya",
+        "Transfermarkt ID":"440654",
+        "Team Left":"D\u00fczcespor",
+        "Team Joined":"Isparta 32 Spor",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 18:27:36"
+    },
+    {
+        "Player":"Osman \u015eahin",
+        "Transfermarkt ID":"563956",
+        "Team Left":"Adana 01 FK",
+        "Team Joined":"Orduspor 1967",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 18:27:36"
+    },
+    {
+        "Player":"Taner Y\u0131lmaz",
+        "Transfermarkt ID":"78253",
+        "Team Left":"Nigde Belediye",
+        "Team Joined":"Sivas 4 Eyl\u00fcl",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 18:27:36"
+    },
+    {
+        "Player":"Yakup Yi\u011fit",
+        "Transfermarkt ID":"308510",
+        "Team Left":"Without Club",
+        "Team Joined":"Sivas 4 Eyl\u00fcl",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 18:27:36"
+    },
+    {
+        "Player":"M\u00fccahit Atalay",
+        "Transfermarkt ID":"209569",
+        "Team Left":"Yozgat B. Bozok",
+        "Team Joined":"1074 Cankiri",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 18:27:36"
+    },
+    {
+        "Player":"\u0130brahim \u00c7am",
+        "Transfermarkt ID":"869925",
+        "Team Left":"Imranlispor",
+        "Team Joined":"Sivas 4 Eyl\u00fcl",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 18:37:43"
+    },
+    {
+        "Player":"Fatih \u00c7ak\u0131r",
+        "Transfermarkt ID":"292962",
+        "Team Left":"Eskisehirspor",
+        "Team Joined":"Kestel Bld GSK",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 18:37:43"
+    },
+    {
+        "Player":"Mirko Castelnuovo",
+        "Transfermarkt ID":"983995",
+        "Team Left":"Inter U19",
+        "Team Joined":"Modena U19",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 18:57:45"
+    },
+    {
+        "Player":"Sirodom Konsungnoen",
+        "Transfermarkt ID":"1079678",
+        "Team Left":"Bangkok FC",
+        "Team Joined":"Nonthaburi Utd.",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 19:07:49"
+    },
+    {
+        "Player":"Yusuf Saito\u011flu",
+        "Transfermarkt ID":"1047586",
+        "Team Left":"\u00dcmraniyespor",
+        "Team Joined":"Mardin 1969",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 19:07:49"
+    },
+    {
+        "Player":"Serta\u00e7 Eren",
+        "Transfermarkt ID":"91933",
+        "Team Left":"1926 Polatli",
+        "Team Joined":"1074 Cankiri",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 19:17:54"
+    },
+    {
+        "Player":"Mustafa De\u011firmenci",
+        "Transfermarkt ID":"387362",
+        "Team Left":"Yozgat B. Bozok",
+        "Team Joined":"1074 Cankiri",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 19:17:54"
+    },
+    {
+        "Player":"Mati Castillo",
+        "Transfermarkt ID":"636128",
+        "Team Left":"Depor Fabril",
+        "Team Joined":"CD Estepona FS",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 19:17:54"
+    },
+    {
+        "Player":"Supakorn Nutvijit",
+        "Transfermarkt ID":"855934",
+        "Team Left":"Bangkok FC",
+        "Team Joined":"Nonthaburi Utd.",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 19:17:54"
+    },
+    {
+        "Player":"Na-Pat Tangthanapholkul",
+        "Transfermarkt ID":"1215439",
+        "Team Left":"Bangkok FC",
+        "Team Joined":"Nonthaburi Utd.",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 19:17:54"
+    },
+    {
+        "Player":"Kiangsak Taobutr",
+        "Transfermarkt ID":"1069078",
+        "Team Left":"Bangkok FC",
+        "Team Joined":"Nonthaburi Utd.",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 19:17:54"
+    },
+    {
+        "Player":"Gregorio Betancort",
+        "Transfermarkt ID":"1284845",
+        "Team Left":"Mar\u00edtima U19",
+        "Team Joined":"Union Sur Yaiza",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 19:17:54"
+    },
+    {
+        "Player":"Muhammet Arslanta\u015f",
+        "Transfermarkt ID":"338888",
+        "Team Left":"Basaksehir",
+        "Team Joined":"Elazigspor ",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 19:17:54"
+    },
+    {
+        "Player":"Fran Lara",
+        "Transfermarkt ID":"380953",
+        "Team Left":"UCAM Murcia",
+        "Team Joined":"CD Estepona FS",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 19:27:58"
+    },
+    {
+        "Player":"Mohamed Ramzi Haif",
+        "Transfermarkt ID":"902712",
+        "Team Left":"MC Algiers",
+        "Team Joined":"Without Club",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 19:27:58"
+    },
+    {
+        "Player":"Javier Murua",
+        "Transfermarkt ID":"455344",
+        "Team Left":"SD Logro\u00f1\u00e9s",
+        "Team Joined":"Salamanca CF ",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 19:27:58"
+    },
+    {
+        "Player":"Mateo Arellano",
+        "Transfermarkt ID":"416269",
+        "Team Left":"UP Langreo",
+        "Team Joined":"UD Llanera",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 19:27:58"
+    },
+    {
+        "Player":"Tuncay \u00c7a\u011fman",
+        "Transfermarkt ID":"726592",
+        "Team Left":"Viransehir Bld",
+        "Team Joined":"Mardin 1969",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 19:38:01"
+    },
+    {
+        "Player":"Tolga Alaca",
+        "Transfermarkt ID":"1187774",
+        "Team Left":"Yozgat B. Bozok",
+        "Team Joined":"Mardin 1969",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 19:38:01"
+    },
+    {
+        "Player":"Ahmet Akta\u015f",
+        "Transfermarkt ID":"246238",
+        "Team Left":"Yozgat B. Bozok",
+        "Team Joined":"1074 Cankiri",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 19:38:01"
+    },
+    {
+        "Player":"\u0130smail \u00c7etin",
+        "Transfermarkt ID":"1187773",
+        "Team Left":"Yozgat B. Bozok",
+        "Team Joined":"1074 Cankiri",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 19:38:01"
+    },
+    {
+        "Player":"Izan Maldonado",
+        "Transfermarkt ID":"1109210",
+        "Team Left":"AE Prat",
+        "Team Joined":"CE L'Hospitalet",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 19:38:01"
+    },
+    {
+        "Player":"Emilio Kishta",
+        "Transfermarkt ID":"231909",
+        "Team Left":"Without Club",
+        "Team Joined":"Agios Nikolaos",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 19:48:02"
+    },
+    {
+        "Player":"Jon Taylor",
+        "Transfermarkt ID":"137589",
+        "Team Left":"Doncaster",
+        "Team Joined":"Salford",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 19:48:02"
+    },
+    {
+        "Player":"Kleomenis Theologis",
+        "Transfermarkt ID":"611745",
+        "Team Left":"Peramaikos",
+        "Team Joined":"GS Marko",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 19:48:02"
+    },
+    {
+        "Player":"Sandzhar Kuvvatov",
+        "Transfermarkt ID":"127748",
+        "Team Left":"Neftchi",
+        "Team Joined":"Without Club",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 19:48:02"
+    },
+    {
+        "Player":"Yuma Suyama",
+        "Transfermarkt ID":"986316",
+        "Team Left":"Altglienicke II",
+        "Team Joined":"Berliner AK",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 20:08:06"
+    },
+    {
+        "Player":"Andreas Georgakis",
+        "Transfermarkt ID":"710576",
+        "Team Left":"AO Trikala",
+        "Team Joined":"Anag. Artas",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 20:18:11"
+    },
+    {
+        "Player":"Matteo Marinari",
+        "Transfermarkt ID":"457408",
+        "Team Left":"NovaRomentin",
+        "Team Joined":"Seravezza Pozzi",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 20:18:11"
+    },
+    {
+        "Player":"Richard Nagy",
+        "Transfermarkt ID":"546870",
+        "Team Left":"FC ViOn",
+        "Team Joined":"Jedinstvo Ub",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 20:18:11"
+    },
+    {
+        "Player":"Mehrshad Seydi",
+        "Transfermarkt ID":"946473",
+        "Team Left":"Sh. Nowshahr",
+        "Team Joined":"Saipa FC",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 20:28:12"
+    },
+    {
+        "Player":"Will Edwards",
+        "Transfermarkt ID":"940855",
+        "Team Left":"Without Club",
+        "Team Joined":"Conwy",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 20:28:12"
+    },
+    {
+        "Player":"William Owen-Ford",
+        "Transfermarkt ID":"1065092",
+        "Team Left":"Porthmadog",
+        "Team Joined":"Llanrwst",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 20:28:12"
+    },
+    {
+        "Player":"Sam Henry",
+        "Transfermarkt ID":"527711",
+        "Team Left":"Flint Mountain",
+        "Team Joined":"Corwen FC",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 20:28:12"
+    },
+    {
+        "Player":"Aires Sousa",
+        "Transfermarkt ID":"417485",
+        "Team Left":"Babrungas",
+        "Team Joined":"Banga",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 20:28:12"
+    },
+    {
+        "Player":"Paulo Victor",
+        "Transfermarkt ID":"428876",
+        "Team Left":"Without Club",
+        "Team Joined":"Al-Hedod SC",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 20:48:19"
+    },
+    {
+        "Player":"Ivan Inzoudine",
+        "Transfermarkt ID":"344870",
+        "Team Left":"Burton Albion",
+        "Team Joined":"Kalmar FF",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 20:58:21"
+    },
+    {
+        "Player":"Ivan Inzoudine",
+        "Transfermarkt ID":"344870",
+        "Team Left":"FC Chambly Oise",
+        "Team Joined":"Burton Albion",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 20:58:21"
+    },
+    {
+        "Player":"Abdeljalil Jbira",
+        "Transfermarkt ID":"261149",
+        "Team Left":"RCA Zemamra",
+        "Team Joined":"Without Club",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 20:58:21"
+    },
+    {
+        "Player":"Mohammad Amin Rezaei",
+        "Transfermarkt ID":"307041",
+        "Team Left":"Mes Kerman",
+        "Team Joined":"Shams Azar",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 20:58:21"
+    },
+    {
+        "Player":"Sobhan Pasandideh",
+        "Transfermarkt ID":"852398",
+        "Team Left":"Havadar SC",
+        "Team Joined":"Shams Azar",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 20:58:21"
+    },
+    {
+        "Player":"Pavel Khodeev",
+        "Transfermarkt ID":"652269",
+        "Team Left":"Arsenal-2 Tula",
+        "Team Joined":"M. Lipetsk",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 21:08:24"
+    },
+    {
+        "Player":"Carlos Garc\u00eda",
+        "Transfermarkt ID":"628494",
+        "Team Left":"C\u00e1diz B",
+        "Team Joined":"Unionistas CF",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 21:08:24"
+    },
+    {
+        "Player":"\u00c1lex Salto",
+        "Transfermarkt ID":"340846",
+        "Team Left":"CF La Nuc\u00eda",
+        "Team Joined":"Orihuela CF",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 21:08:24"
+    },
+    {
+        "Player":"Omar Jerrari",
+        "Transfermarkt ID":"275262",
+        "Team Left":"MAS F\u00e8s",
+        "Team Joined":"Difa\u00e2 El Jadida",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 21:08:24"
+    },
+    {
+        "Player":"Edu S\u00e1nchez",
+        "Transfermarkt ID":"1186833",
+        "Team Left":"FC Ordino",
+        "Team Joined":"Without Club",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 21:18:28"
+    },
+    {
+        "Player":"Juan Moreno",
+        "Transfermarkt ID":"339814",
+        "Team Left":"FC Ordino",
+        "Team Joined":"Without Club",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 21:18:28"
+    },
+    {
+        "Player":"Javi Montserrat",
+        "Transfermarkt ID":"1186841",
+        "Team Left":"FC Ordino",
+        "Team Joined":"Without Club",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 21:18:28"
+    },
+    {
+        "Player":"Marco Alarc\u00f3n",
+        "Transfermarkt ID":"1123681",
+        "Team Left":"CD Santanyi",
+        "Team Joined":"UD Poblense",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 21:28:28"
+    },
+    {
+        "Player":"Nathan Mendoza",
+        "Transfermarkt ID":"978249",
+        "Team Left":"Caerwys",
+        "Team Joined":"Mynydd Isa",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 21:28:28"
+    },
+    {
+        "Player":"Imanol Arellano",
+        "Transfermarkt ID":"449979",
+        "Team Left":"Valle de Eg\u00fc\u00e9s",
+        "Team Joined":"UD Mutilvera",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 21:28:28"
+    },
+    {
+        "Player":"Juli\u00e1n Cacho",
+        "Transfermarkt ID":"682511",
+        "Team Left":"CF La Solana",
+        "Team Joined":"Valdepe\u00f1as",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 21:28:28"
+    },
+    {
+        "Player":"Dani Albiar",
+        "Transfermarkt ID":"611592",
+        "Team Left":"FC Cartagena B",
+        "Team Joined":"Lorca Deportiva",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 21:28:28"
+    },
+    {
+        "Player":"Giacomo Parigi",
+        "Transfermarkt ID":"254708",
+        "Team Left":"Arzignano",
+        "Team Joined":"Rimini",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 21:28:28"
+    },
+    {
+        "Player":"David Sanz",
+        "Transfermarkt ID":"710491",
+        "Team Left":"Palencia Cristo",
+        "Team Joined":"Arandina",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 21:28:28"
+    },
+    {
+        "Player":"Sofiane Yacine Guenina",
+        "Transfermarkt ID":"351321",
+        "Team Left":"MC Oran",
+        "Team Joined":"Without Club",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 21:28:28"
+    },
+    {
+        "Player":"Jeremy Emmons",
+        "Transfermarkt ID":"1284820",
+        "Team Left":"Mario Mendez",
+        "Team Joined":"Veraguas United",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 21:41:24"
+    },
+    {
+        "Player":"Abdiel Garc\u00e9s",
+        "Transfermarkt ID":"866340",
+        "Team Left":"Without Club",
+        "Team Joined":"Veraguas United",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 21:41:24"
+    },
+    {
+        "Player":"Javier G\u00f3ndola",
+        "Transfermarkt ID":"866396",
+        "Team Left":"Col\u00f3n C-3",
+        "Team Joined":"Veraguas United",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 21:41:24"
+    },
+    {
+        "Player":"Ricardo Ferreira",
+        "Transfermarkt ID":"744820",
+        "Team Left":"V\u00eddir",
+        "Team Joined":"Hamar",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 21:41:24"
+    },
+    {
+        "Player":"Cristian Baldovino",
+        "Transfermarkt ID":"581814",
+        "Team Left":"Union Magdalena",
+        "Team Joined":"Universitario",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 21:41:24"
+    },
+    {
+        "Player":"Harry Massey",
+        "Transfermarkt ID":"976212",
+        "Team Left":"Conwy",
+        "Team Joined":"Mynydd Isa",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 21:41:24"
+    },
+    {
+        "Player":"Ben Richards",
+        "Transfermarkt ID":"1115367",
+        "Team Left":null,
+        "Team Joined":"Carno FC",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 21:41:24"
+    },
+    {
+        "Player":"Callum Dunning",
+        "Transfermarkt ID":"1283647",
+        "Team Left":null,
+        "Team Joined":"Aberdare",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 21:41:24"
+    },
+    {
+        "Player":"Jamal Mohammed Al-Dafiri",
+        "Transfermarkt ID":"453908",
+        "Team Left":"Hajer",
+        "Team Joined":"Al-Zulfi",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 21:54:18"
+    },
+    {
+        "Player":"Abdulaziz Majrashi",
+        "Transfermarkt ID":"444714",
+        "Team Left":"Al-Tai",
+        "Team Joined":"Al-Diraiyah FC",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 21:54:18"
+    },
+    {
+        "Player":"Mohamed Loua",
+        "Transfermarkt ID":"364894",
+        "Team Left":"Without Club",
+        "Team Joined":"Hesperange",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 21:54:18"
+    },
+    {
+        "Player":"Mateo Jagnjic",
+        "Transfermarkt ID":"1126395",
+        "Team Left":"Berliner SC",
+        "Team Joined":"Berliner AK",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 21:54:18"
+    },
+    {
+        "Player":"Yamell Menchaca",
+        "Transfermarkt ID":"1246871",
+        "Team Left":"Masachapa FC",
+        "Team Joined":"Juventud",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 21:54:18"
+    },
+    {
+        "Player":"Ellis Turner",
+        "Transfermarkt ID":"980259",
+        "Team Left":"Guilsfield",
+        "Team Joined":"Whitchurch ",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 22:04:22"
+    },
+    {
+        "Player":"Junior Burban",
+        "Transfermarkt ID":"788233",
+        "Team Left":"Vannes",
+        "Team Joined":"Pr. Niederkorn",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 22:04:22"
+    },
+    {
+        "Player":"Pierre-Yves Ngawa",
+        "Transfermarkt ID":"140786",
+        "Team Left":"OH Leuven",
+        "Team Joined":"RFC L\u00fcttich",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 22:04:22"
+    },
+    {
+        "Player":"Nico Gait\u00e1n",
+        "Transfermarkt ID":"75442",
+        "Team Left":"Without Club",
+        "Team Joined":"Sarmiento Junin",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 22:04:22"
+    },
+    {
+        "Player":"Diaw Elhadji Abdou Aziz",
+        "Transfermarkt ID":"1066519",
+        "Team Left":"US Tataouine",
+        "Team Joined":"ASC Jaraaf",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 22:14:28"
+    },
+    {
+        "Player":"Kenneth Semakula",
+        "Transfermarkt ID":"863075",
+        "Team Left":"SCV Kampala",
+        "Team Joined":"Club Africain",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 22:14:28"
+    },
+    {
+        "Player":"Kenneth Semakula",
+        "Transfermarkt ID":"863075",
+        "Team Left":"SCV Kampala",
+        "Team Joined":"Club Africain",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 22:14:28"
+    },
+    {
+        "Player":"Abraham Ayemantey",
+        "Transfermarkt ID":"1068746",
+        "Team Left":"Muscelul Elite",
+        "Team Joined":"V. M. Lupeni",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 22:14:28"
+    },
+    {
+        "Player":"Elmer Cardoza",
+        "Transfermarkt ID":"780908",
+        "Team Left":"Xelaj\u00fa",
+        "Team Joined":"Panargiakos",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 22:14:28"
+    },
+    {
+        "Player":"Ilias Provatidis",
+        "Transfermarkt ID":"164726",
+        "Team Left":null,
+        "Team Joined":"Eginiakos",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 22:24:28"
+    },
+    {
+        "Player":"Jayden Bogle",
+        "Transfermarkt ID":"465717",
+        "Team Left":"Sheff Utd",
+        "Team Joined":"Leeds",
+        "Fee":"\u20ac5.93m",
+        "Datetime Retrieved":"2024-07-20 22:24:28"
+    },
+    {
+        "Player":"Zied Soussi",
+        "Transfermarkt ID":"305704",
+        "Team Left":"SC Moknine",
+        "Team Joined":"Stade Gab\u00e8sien",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 22:24:28"
+    },
+    {
+        "Player":"Jo\u00e3o Freitas",
+        "Transfermarkt ID":"118328",
+        "Team Left":"Atl\u00e9tico CP",
+        "Team Joined":"1\u00ba Dezembro",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 22:24:28"
+    },
+    {
+        "Player":"Mohammed Nassif",
+        "Transfermarkt ID":"853755",
+        "Team Left":"Erbil SC",
+        "Team Joined":"Al-Quwa Al-Jaw.",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 22:34:33"
+    },
+    {
+        "Player":"Steve Birnbaum",
+        "Transfermarkt ID":"307728",
+        "Team Left":"D.C. United",
+        "Team Joined":null,
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 23:04:39"
+    },
+    {
+        "Player":"Naoki Kanuma",
+        "Transfermarkt ID":"732830",
+        "Team Left":"J\u00fabilo Iwata",
+        "Team Joined":"Tokushima Vort.",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 23:04:39"
+    },
+    {
+        "Player":"Youssef Ezzejjari",
+        "Transfermarkt ID":"818984",
+        "Team Left":"Visakha FC",
+        "Team Joined":"Barito Putera",
+        "Fee":"free transfer",
+        "Datetime Retrieved":"2024-07-20 23:04:39"
+    },
+    {
+        "Player":"Keelin Martin",
+        "Transfermarkt ID":"1106579",
+        "Team Left":"Hungry Lions FC",
+        "Team Joined":"NC Profession.",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-20 23:04:39"
+    },
+    {
+        "Player":"Endrick",
+        "Transfermarkt ID":"971570",
+        "Team Left":"Palmeiras",
+        "Team Joined":"Real Madrid",
+        "Fee":"\u20ac47.50m",
+        "Datetime Retrieved":"2024-07-20 23:04:39"
+    },
+    {
+        "Player":"Ivan Rakitic",
+        "Transfermarkt ID":"32467",
+        "Team Left":"Al-Shabab",
+        "Team Joined":"Hajduk Split",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-20 23:14:40"
+    },
+    {
+        "Player":"Maximilian Zaiser",
+        "Transfermarkt ID":"380423",
+        "Team Left":"SGV Freiberg",
+        "Team Joined":"Without Club",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-20 23:44:53"
+    },
+    {
+        "Player":"Gabriel Neves",
+        "Transfermarkt ID":"454181",
+        "Team Left":"S\u00e3o Paulo",
+        "Team Joined":"Estudiantes LP",
+        "Fee":"\u20ac734k",
+        "Datetime Retrieved":"2024-07-21 00:05:02"
+    },
+    {
+        "Player":"Giovanni Brighi",
+        "Transfermarkt ID":"1040075",
+        "Team Left":"Cesena U19",
+        "Team Joined":"Grosseto",
+        "Fee":"loan transfer",
+        "Datetime Retrieved":"2024-07-21 00:35:15"
+    },
+    {
+        "Player":"Jhilmar Lobat\u00f3n",
+        "Transfermarkt ID":"654785",
+        "Team Left":"Without Club",
+        "Team Joined":"Tiro 28",
+        "Fee":"-",
+        "Datetime Retrieved":"2024-07-21 01:05:28"
+    },
+    {
+        "Player":"Seymen Adal\u0131",
+        "Transfermarkt ID":"973937",
+        "Team Left":"Tuzlaspor",
+        "Team Joined":"Bld K\u00fctahya",
+        "Fee":"?",
+        "Datetime Retrieved":"2024-07-21 02:55:05"
+    }
+]
