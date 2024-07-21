@@ -5,7 +5,6 @@ import pandas as pd
 from datetime import datetime
 from bs4 import BeautifulSoup
 
-# Function to extract data from a single page
 def extract_data_from_page(url):
     pageTree = requests.get(url, headers=headers)
     pageSoup = BeautifulSoup(pageTree.content, 'html.parser')
@@ -46,7 +45,6 @@ def extract_data_from_page(url):
 
     return PlayersList, TransfermarktIDList, TeamLeftList, TeamJoinedList, FeeList, DateTimeList
 
-# Load existing data from JSON file
 def load_existing_data(file_path):
     try:
         with open(file_path, 'r') as file:
@@ -55,7 +53,6 @@ def load_existing_data(file_path):
     except FileNotFoundError:
         return pd.DataFrame(columns=['Player', 'Transfermarkt ID', 'Team Left', 'Team Joined', 'Fee', 'Datetime Retrieved'])
 
-# Check if a player is already in the DataFrame
 def player_exists(df, player_name):
     return not df[df['Player'] == player_name].empty
 
